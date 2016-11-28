@@ -12,12 +12,14 @@
 
 	<name>WebApplications</name>
 
-	<repositories>
-		<repository>
-			<id>ritwik-mvn-repo</id>
-			<url>http://ritwik.net/mvn/releases/</url>
-		</repository>
-	</repositories>
+	<!--This has to be installed locally as maven from source here:-->
+	<!--https://github.com/RitwikSaikia/jsonrpc/-->
+	<!--<repositories>-->
+		<!--<repository>-->
+			<!--<id>ritwik-mvn-repo</id>-->
+			<!--<url>http://ritwik.net/mvn/releases/</url>-->
+		<!--</repository>-->
+	<!--</repositories>-->
 
 	<build>
 		<plugins>
